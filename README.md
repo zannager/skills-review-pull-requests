@@ -31,7 +31,7 @@ Now let's see how easy it is to [apply your suggestion](https://docs.github.com/
 1. Type a commit message.
 1. Click **Commit changes**.
 
-## Step 6: Merge your pull request
+## Step 6: Merge your pull request (last stept)
 
 _Almost there! :heart:_
 
